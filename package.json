@@ -1,0 +1,19 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "cloze friendly cards",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "n"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradbrandhorst/Flashcard-Generator.git"
+  },
+  "author": "Brad Brandhorst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradbrandhorst/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/bradbrandhorst/Flashcard-Generator#readme"
+}
